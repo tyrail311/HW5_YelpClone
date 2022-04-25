@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW5_YelpClone</string>
+    <string name="image_for_restaraunt">image for restaraunt</string>
+    <string name="search_for_food">Search for Food</string>
+    <string name="enter_location_such_as_new_britain">Enter Location such as New Britain</string>
+    <string name="search">Search</string>
+</resources>
